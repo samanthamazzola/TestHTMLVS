@@ -1,0 +1,6 @@
+/Users/samanthamazzola/Documents/Projects/TestHTMLVS/TestHTMLVS/bin/TestHTMLVS.dll
+/Users/samanthamazzola/Documents/Projects/TestHTMLVS/TestHTMLVS/bin/TestHTMLVS.pdb
+/Users/samanthamazzola/Documents/Projects/TestHTMLVS/TestHTMLVS/obj/Debug/TestHTMLVS.csprojResolveAssemblyReference.cache
+/Users/samanthamazzola/Documents/Projects/TestHTMLVS/TestHTMLVS/obj/Debug/TestHTMLVS.csproj.CoreCompileInputs.cache
+/Users/samanthamazzola/Documents/Projects/TestHTMLVS/TestHTMLVS/obj/Debug/TestHTMLVS.dll
+/Users/samanthamazzola/Documents/Projects/TestHTMLVS/TestHTMLVS/obj/Debug/TestHTMLVS.pdb

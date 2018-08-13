@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{0D5FB0EF-DF8D-49A4-AE6B-258B2017F91B}|">
+  <MonoDevelop.Ide.ItemProperties.TestHTMLVS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestHTMLVS/Index.html">
+    <Files>
+      <File FileName="TestHTMLVS/CSS/stylesheet.css" Line="60" Column="1" />
+      <File FileName="TestHTMLVS/Index.html" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

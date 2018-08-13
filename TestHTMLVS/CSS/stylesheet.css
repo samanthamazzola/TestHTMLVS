@@ -1,0 +1,55 @@
+﻿header {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: black;
+    background-image: url("../images/matrix-png-image-1-395x279.png");
+    background-size: 100%;
+    background-repeat: no-repeat, repeat;
+}
+
+img{
+    align-items: center;
+}
+
+
+h1 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2, h3 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table, th, tr {
+    border: 1px solid white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+div {
+    align-content:center;
+    
+}
+
+a {
+    color: orange;
+}
+
+.pizzaTable {
+    align-content: center;
+    text-align: center;
+    position: absolute;
+}
+
+.awesomeClass {
+    color: aquamarine;
+}
+
+#HelloH1 {
+    color: yellow;
+}
+
